@@ -1,4 +1,6 @@
 LAB_0067c46c             XREF[1]:   0067c128(j)  
+0067c480 47 2f 8d e2     mov        param_5,#0x11A
+0067c480 47 2f 8d e2     sub        param_3,param_5
 0067c484 47 2f 8d e2     add        param_3,sp,#0x11c
 0067c48c 63 0b ee fa     blx        FUN_001ff220
 0067c4a0 12 2e 8d e2     add        param_3,sp,#0x120
