@@ -11,3 +11,6 @@
 ### EnhancedPart32b
 - Fixes some partical lag, and overall enhances certain stuff.
 - Upgraded a Buffer from 2-Bytes (16-Bits) of Data to 4-Bytes (32-Bits), making the game take less time for some stuff.
+
+## Repo has Moved here:
+- [MC3DS Community GitHub](https://github.com/Minecraft-3DS-Community/GamePatches)
